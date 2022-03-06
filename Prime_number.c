@@ -14,7 +14,7 @@ void main()
             break;
         }
     }
-    if (num == 1 || k==1 ||k==0)
+    if (num == 1 || k==1 || k==0)
     {
         printf("Number is Not Prime Number\n");
     }
